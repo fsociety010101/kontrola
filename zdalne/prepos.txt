@@ -1,0 +1,5 @@
+total 8
+-rw-r--r--  1 dnimchynskyi  staff    0 Oct 18 18:33 prepos.txt
+-rw-r--r--  1 dnimchynskyi  staff  115 Oct 18 18:32 repos.txt
+origin	git@github.com:fsociety010101/kontrola.git (fetch)
+origin	git@github.com:fsociety010101/kontrola.git (push)
