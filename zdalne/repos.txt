@@ -1,0 +1,2 @@
+origin	git@github.com:fsociety010101/kontrola.git (fetch)
+origin	git@github.com:fsociety010101/kontrola.git (push)
