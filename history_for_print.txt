@@ -1,0 +1,125 @@
+ 2015  git clone git@github.com:fsociety010101/kontrola.git
+ 2016  ls
+ 2017  rm -rf kontrola
+ 2018  mkdir pierwszy
+ 2019  ls
+ 2020  cd pierwszy
+ 2021  git clone git@github.com:fsociety010101/kontrola.git
+ 2022  ls
+ 2023  cd kontrola
+ 2024  touch smile.txt
+ 2025  git add smile.txt
+ 2026  git commit -m "Pierwszy commit"
+ 2027  git push
+ 2028  code smile.txt
+ 2029  git status
+ 2030  git add smile.txt
+ 2031  git commit -m "Zmiana (Sara)"
+ 2032  touch jeden.txt
+ 2033  touch dwa.txt
+ 2034  git add jeden.txt dwa.txt
+ 2035  git status\n: 1666110054:0;git status
+ 2036  git commit -m "Dodane pliki(JD)"
+ 2037  git push 
+ 2038  cd ..
+ 2039  mkdir drugi
+ 2040  ls
+ 2041  rmdir drugi
+ 2042  ls
+ 2043  cd ..
+ 2044  mkdir pierwszy
+ 2045  ls
+ 2046  cd pierwszy
+ 2047  ls
+ 2048  cd kontrola
+ 2049  ls
+ 2050  cd ..
+ 2051  mkdir drugi
+ 2052  cd drugi
+ 2053  cd ..
+ 2054  rmdir drugi
+ 2055  ls
+ 2056  cd ..
+ 2057  cd drugi
+ 2058  mkdir drugi
+ 2059  ls
+ 2060  cd drugi
+ 2061  git clone git@github.com:fsociety010101/kontrola.git
+ 2062  ls
+ 2063  cd Informatyka_2st/SKW/pierwszy
+ 2064  clear
+ 2065  git status\n: 1666110054:0;git status
+ 2066* ls
+ 2067  clear
+ 2068  ls 
+ 2069  cd kontrola
+ 2070  ls
+ 2071  git status
+ 2072* cd ..
+ 2073* ls
+ 2074* cd kontrola
+ 2075* cd zdalne
+ 2076* mkdir zdalne
+ 2077* cd zd
+ 2078* cd zdalne
+ 2079* git remote -v >> repos.txt
+ 2080* code repos.txt
+ 2081* git add repos.txt
+ 2082* git commit -m "Dodany plik ze zdalnymi repozytoriami"
+ 2083* git push
+ 2084  git pull 
+ 2085  ls
+ 2086* cd ..
+ 2087* ls
+ 2088  cd zdalne
+ 2089  ls -l >> prepos.txt
+ 2090  git remote -v >> prepos.txt
+ 2091  git add prepos.txt
+ 2092  git commit -m "Dodany plik ze zdalnymi repozytoriami v2"
+ 2093  git push
+ 2094* git pull
+ 2095* touch toignore.txt
+ 2096* git status >> toignore.txt
+ 2097* touch .gitignore
+ 2098* code .gitignore
+ 2099* git status
+ 2100* cd zdalne
+ 2101* touch jeden.pdf
+ 2102* touch dwa.txt
+ 2103* touch trzy.png
+ 2104* git add jeden.pdf dwa.txt trzy.png
+ 2105* code .gitignore
+ 2106* ls
+ 2107* cd ..
+ 2108* ls
+ 2109* cd zd
+ 2110* cd zdalne
+ 2111* git status
+ 2112* git add ../.gitignore
+ 2113* git commit -m "Ignorowanie"
+ 2114* touch test.pdf
+ 2115* touch test.png
+ 2116* git status
+ 2117* rm -rf test.pdf test.png
+ 2118* ls
+ 2119* rm -rf dwa.txt
+ 2120* git status
+ 2121* git add dwa.txt
+ 2122* git commit -m "Usuwanie"
+ 2123* git status
+ 2124* touch merge.txt
+ 2125* echo "linia1" >> merge.txt
+ 2126* git add merge.txt
+ 2127* git commit -m "Dodany plik merge"
+ 2128* git push
+ 2129  ls 
+ 2130  pwd
+ 2131  touch merge2.txt
+ 2132  echo "linia1" >> merge2.txt
+ 2133  git add merge2.txt
+ 2134  git commit -m "Nowy plik"
+ 2135  git push
+ 2136  git pull
+ 2137  git push
+ 2138  cd ..
+ 2139  git push >> err.txt
