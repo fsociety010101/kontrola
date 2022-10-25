@@ -1,0 +1,20 @@
+6372424 mergeMNO
+9e2c875 aMNO
+e555d98 JKL
+be76cb8 mergeGHI
+3c6060c aGHI
+262e434 GHI
+148734a DEF na alfa
+88471c6 mbran
+4e35b39 Zadanie do wykładu 4. - start
+c8a87fb Historia konsoli
+f2a117a Nowy plik
+36bf5e2 Dodany plik merge
+3750ecc Usuwanie
+ebbde20 Ignorowanie
+b6d10a1 Dodany plik ze zdalnymi repozytoriami v2
+13f93ab Dodany plik ze zdalnymi repozytoriami
+262c024 Dodane pliki(JD)
+0ff7d0b Zmiana (Sara)
+2f6b1cb Pierwszy commit
+854e3e0 Initial commit
