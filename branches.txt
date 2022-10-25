@@ -1,0 +1,6 @@
+* alfa
+  beta
+  gamma
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
