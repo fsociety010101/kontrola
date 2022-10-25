@@ -1,0 +1,172 @@
+* commit 406888d4f19e8c6cf2fdae5eb5d4a835745b7e74 (HEAD -> main)
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 25 18:56:18 2022 +0200
+| 
+|     amdiff
+|   
+*   commit e31bc8795d7369e8c2be59619a65ebcbe177dc83
+|\  Merge: 1e89f85 be30082
+| | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | Date:   Tue Oct 25 18:55:04 2022 +0200
+| | 
+| |     merge beta to main
+| | 
+* | commit 1e89f85dd34ad66425ac6f54db3a9b674930a119
+| | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | Date:   Tue Oct 25 18:43:33 2022 +0200
+| | 
+| |     moneline
+| |   
+* |   commit 63724246450e1a976d37606f36c3606065a1216f
+|\ \  Merge: e555d98 9e2c875
+| | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | Date:   Tue Oct 25 18:35:11 2022 +0200
+| | | 
+| | |     mergeMNO
+| | | 
+* | | commit e555d98e1ea4fb5d635c6c35beff0be88c21d71c
+| | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | Date:   Tue Oct 25 18:31:59 2022 +0200
+| | | 
+| | |     JKL
+| | |   
+* | |   commit be76cb8c1da1c8d9ab76142241ebacecb66ac5ab
+|\ \ \  Merge: 262e434 3c6060c
+| | | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | Date:   Tue Oct 25 18:30:41 2022 +0200
+| | | | 
+| | | |     mergeGHI
+| | | |   
+* | | |   commit 262e43434809d7d19f7a7ca63ec0a255723dcb34
+|\ \ \ \  Merge: 88471c6 148734a
+| | | | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | | Date:   Tue Oct 25 18:23:10 2022 +0200
+| | | | | 
+| | | | |     GHI
+| | | | |     
+| | | | | *   commit cf54a9aa3a500db6e6e3dd3dfb29d2dd122a6cd6 (alfa)
+| | | | | |\  Merge: d86c44d 6e03fa9
+| | | | | | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | | | | Date:   Tue Oct 25 18:52:31 2022 +0200
+| | | | | | | 
+| | | | | | |     merge gamma to alfa
+| | | | | | | 
+| | | | | | * commit 6e03fa90d3bb76fe3f91b9dbada1f5a5687b6bb4
+| | | | | |/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | |/|   Date:   Tue Oct 25 18:47:44 2022 +0200
+| | | | | |   
+| | | | | |       dgraph
+| | | | | | 
+| | | | * | commit be30082dc3567aaed242e225cce6dd303ae442d8
+| | | | | | Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | | | Date:   Tue Oct 25 18:45:24 2022 +0200
+| | | | | | 
+| | | | | |     graph
+| | | | | | 
+| | | | | * commit d86c44dce409e174569f8cdd2716ddc9b9f87301
+| | | | |/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | | |   Date:   Tue Oct 25 18:48:47 2022 +0200
+| | | | |   
+| | | | |       lista galezi
+| | | | | 
+| | | | * commit e11b0c773cba16a7e6f8d8a82031e96cd5397fdc
+| | | |/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | | |   Date:   Tue Oct 25 18:44:26 2022 +0200
+| | | |   
+| | | |       aoneline
+| | | | 
+| | | * commit 9e2c8753084e56754a7c060a196c58143c1af893
+| | |/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| | |   Date:   Tue Oct 25 18:33:03 2022 +0200
+| | |   
+| | |       aMNO
+| | | 
+| | * commit 3c6060ca7cea0c440d0ecdb59424d9cd95632187
+| |/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| |   Date:   Tue Oct 25 18:25:54 2022 +0200
+| |   
+| |       aGHI
+| | 
+| * commit 148734af80dd058b3f4c2f0a67f98c11ce714299
+|/  Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+|   Date:   Tue Oct 25 18:15:29 2022 +0200
+|   
+|       DEF na alfa
+| 
+* commit 88471c658270e209f870839141546274112135a6
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 25 18:13:11 2022 +0200
+| 
+|     mbran
+| 
+* commit 4e35b39fbcd0822266544f75cdd68bc6f1d5f52c
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 25 18:11:42 2022 +0200
+| 
+|     Zadanie do wykładu 4. - start
+| 
+* commit c8a87fb529f5ee09db722ef980930ff293c76907 (origin/main, origin/HEAD)
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Wed Oct 19 21:59:44 2022 +0200
+| 
+|     Historia konsoli
+| 
+* commit f2a117a384c1fa3ad3337b2c43acb9df6bb2f2da
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:47:08 2022 +0200
+| 
+|     Nowy plik
+| 
+* commit 36bf5e2eceb9831fe1f39e489c910dff64fd64c3
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:46:03 2022 +0200
+| 
+|     Dodany plik merge
+| 
+* commit 3750ecc32faaba73e2de199c001b27981a155500
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:44:49 2022 +0200
+| 
+|     Usuwanie
+| 
+* commit ebbde20e80aa95a03b8794769c2355155189e8e3
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:43:27 2022 +0200
+| 
+|     Ignorowanie
+| 
+* commit b6d10a198940960581a1cbd084739178409b3a42
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:37:27 2022 +0200
+| 
+|     Dodany plik ze zdalnymi repozytoriami v2
+| 
+* commit 13f93abbe8cdf920870c2d951a13fdc3fbc739f5
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:32:12 2022 +0200
+| 
+|     Dodany plik ze zdalnymi repozytoriami
+| 
+* commit 262c024d63d148af899d6fb3ba3ec9b6b6a176a6
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:21:29 2022 +0200
+| 
+|     Dodane pliki(JD)
+| 
+* commit 0ff7d0b8904d5e6516f7fabdde1aaffa4c9512cb
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:20:11 2022 +0200
+| 
+|     Zmiana (Sara)
+| 
+* commit 2f6b1cb393b5b3e8f4bfbd97df0c1b20354a39a1
+| Author: Dmytro Nimchynskyi <nimchynskyi@icloud.com>
+| Date:   Tue Oct 18 18:18:45 2022 +0200
+| 
+|     Pierwszy commit
+| 
+* commit 854e3e0fc9a33a9be667c1d1dead1338153b23e8
+  Author: Dmytro Nimchynskyi <59197830+fsociety010101@users.noreply.github.com>
+  Date:   Tue Oct 18 18:17:16 2022 +0200
+  
+      Initial commit
