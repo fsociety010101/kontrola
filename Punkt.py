@@ -12,8 +12,3 @@ class Punkt:
 
     def distance(self, other):
         return math.sqrt((self.x - other.x) ** 2 + (self.y - other.y) ** 2 + (self.z - other.z) ** 2)
-
-punkt1 = Punkt(0, 0, 0)
-punkt2 = Punkt(1, 2, 3)
-
-print("Distance: ", punkt1.distance(punkt2))
