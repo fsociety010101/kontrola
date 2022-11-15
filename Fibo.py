@@ -7,3 +7,6 @@ class Fibo:
 
     def get_fib(self):
         return self.fib
+    
+    def checkIsItFiboElement(self):
+        pass
