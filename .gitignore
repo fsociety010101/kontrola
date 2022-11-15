@@ -4,3 +4,5 @@ toignore.txt
 *.jpeg
 *.pdf
 *.csv
+
+/__pycache__
