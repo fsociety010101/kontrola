@@ -14,3 +14,5 @@ print(fibo.get_fib())
 
 fibo_feature = Fibo.Fibo(10)
 print(fibo_feature.get_fib())
+
+print("Trzeci feature")
